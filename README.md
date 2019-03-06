@@ -12,3 +12,4 @@ tel VARCHAR(20) NOT NULL, <br/>
 email VARCHAR(20) NOT NULL,<br/>
 sex CHAR(5) NOT NULL<br/>
 );<br/>
+<p><h6>MadeBy.2018-2학기</h6></p>
